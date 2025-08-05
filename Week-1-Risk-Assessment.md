@@ -5,12 +5,17 @@
 **Date Submitted:** [e.g., 5 August 2025]
 
 **Topic:** Risk Assessment of Digitalising Traditional Business Processes
+
 The term ‘Industry 4.0’, as defined by Hancock et al. (2024), refers to the fourth industrial revolution—characterised by the integration of emerging digital technologies such as artificial intelligence (AI), Internet of Things (IoT), blockchain, and big data analytics into traditional manufacturing and business operations. These technologies aim to transform industries by enabling real-time data exchange, automation, and enhanced decision-making. For example, predictive maintenance using IoT sensors in smart factories allows early detection of equipment failures, minimising downtime and improving operational efficiency (Pech et al., 2021). Another example is the use of blockchain technology in logistics, which enhances supply chain transparency by ensuring secure and traceable transaction records (Xu et al., 2021).
+
 However, applying digitalisation to traditional business models introduces significant risks. Hancock et al. (2024) classify these into three key categories: technological, organisational, and environmental risks. A real-world technological risk includes the 2017 WannaCry ransomware attack, which exploited outdated systems across global organisations, notably impacting the UK's National Health Service (NHS) (Minnaar and Herbig, 2021). This illustrates the cyber vulnerabilities linked to legacy systems being insufficiently protected in digital environments (Hancock et al., 2024).
+
 A notable organisational risk involves the skills gap and resistance to change. For instance, when retailers adopt AI-driven customer service tools without providing adequate training, employees may feel threatened or unprepared, which can result in poor adoption and negative customer experiences (Farbod, S., 2024). This highlights the importance of aligning digital transformation efforts with organisational culture and workforce capabilities.
+
 The arguments made in Hancock et al. (2024) are supported by Liao et al. (2017), who emphasise that while Industry 4.0 offers increased productivity, it simultaneously introduces challenges such as cybersecurity threats, increased system complexity, and resistance from human actors. Both studies advocate for structured risk assessment frameworks as a crucial part of the digital transformation journey to identify, evaluate, and mitigate emerging risks effectively.
 
 **References**
+
 Farbod, S., 2024. Exploring the Dark Side of AI-enabled Services: Impacts on Customer Experience and Well-being (Master's thesis, University of Twente).
 
 Hancock, J., Hui, R., Singh, J. and Mazumder, A., 2024, June. Trouble at Sea: Data and digital technology challenges for maritime human rights concerns. In Proceedings of the 2024 ACM Conference on Fairness, Accountability, and Transparency (pp. 988-1001).
