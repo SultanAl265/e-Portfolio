@@ -12,8 +12,14 @@ The arguments made in Hancock et al. (2024) are supported by Liao et al. (2017),
 
 **References**
 Farbod, S., 2024. Exploring the Dark Side of AI-enabled Services: Impacts on Customer Experience and Well-being (Master's thesis, University of Twente).
+
 Hancock, J., Hui, R., Singh, J. and Mazumder, A., 2024, June. Trouble at Sea: Data and digital technology challenges for maritime human rights concerns. In Proceedings of the 2024 ACM Conference on Fairness, Accountability, and Transparency (pp. 988-1001).
+
 Liao, Y., Deschamps, F., Loures, E.D.F.R. and Ramos, L.F.P., 2017. Past, present and future of Industry 4.0-a systematic literature review and research agenda proposal. International journal of production research, 55(12), pp.3609-3629.
+
 Minnaar, A. and Herbig, F.J., 2021. Cyberattacks and the cybercrime threat of ransomware to hospitals and healthcare services during the COVID-19 pandemic. Acta Criminologica: African Journal of Criminology & Victimology, 34(3), pp.155-185.
-Pech, M., Vrchota, J. and Bednář, J., 2021. Predictive maintenance and intelligent sensors in smart factory. Sensors, 21(4), p.1470. Kaspersky (2017) WannaCry ransomware used in widespread attacks all over the world. Available at: https://www.kaspersky.com/blog/wannacry-ransomware/ (Accessed: 5 August 2025).
+
+Pech, M., Vrchota, J. and Bednář, J., 2021. Predictive maintenance and intelligent sensors in smart factory. Sensors, 21(4), p.1470. Kaspersky (2017) WannaCry ransomware used in widespread attacks all over the world. 
+Available at: https://www.kaspersky.com/blog/wannacry-ransomware/ (Accessed: 5 August 2025).
+
 Xu, P., Lee, J., Barth, J.R. and Richey, R.G., 2021. Blockchain as supply chain technology: considering transparency and security. International Journal of Physical Distribution & Logistics Management, 51(3), pp.305-324. 
