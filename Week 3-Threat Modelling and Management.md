@@ -24,6 +24,9 @@ Tailored for Agile environments, integrating threat modeling into development wo
 **LINDDUN**  
 A privacy-focused framework categorizing threats as Linkability, Identifiability, Non-repudiation, Detectability, Disclosure of information, Unawareness, and Non-compliance (Shevchenko et al., 2018). Highly suitable for projects handling personal or sensitive data, aligning with regulatory requirements such as GDPR.
 
+**DREAD (Damage, Reproducibility, Exploitability, Affected Users, Discoverability)**  
+A numerical scoring model that ranks threats based on five factors to prioritize remediation efforts. While straightforward to apply, DREAD has been largely deprecated by Microsoft and is less common in modern practice due to subjectivity, inconsistent scoring, and lack of standardized weighting (Shevchenko et al., 2018). It can still be useful for **quick prioritization** in small teams or as a supplementary method to quantify risk after using qualitative models like STRIDE.
+
 ---
 
 ## Choosing the Right Technique
@@ -36,6 +39,7 @@ The selection depends on project scope, security process maturity, and expected 
 - **VAST**: Fits fast-paced Agile environments.
 - **LINDDUN**: Essential for privacy-centric systems like healthcare and finance.
 - **Attack Trees**: Effective for penetration testing and red team exercises.
+- **DREAD**: Useful as a secondary scoring mechanism when prioritization speed is critical.
 
 ---
 
@@ -46,6 +50,7 @@ Combining techniques can address individual limitations and provide a more holis
 - **STRIDE + Attack Trees**: Classify threats first, then map attack paths in detail (Popov et al., 2022).
 - **PASTA + LINDDUN**: Address business risks and privacy threats simultaneously.
 - **OCTAVE + STRIDE**: Cover both governance-level and technical-level threats, useful in critical infrastructure projects (Aven & Thekdi, 2025).
+- **STRIDE + DREAD**: Identify threats, then rank them numerically for remediation priority.
 
 Hybrid approaches are beneficial when:
 - A single method cannot fully address the threat landscape.
