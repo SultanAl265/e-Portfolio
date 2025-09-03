@@ -1,0 +1,10 @@
+### Week 6 Activity – Development Team Project: Risk Identification Report  
+
+During Week 6, I participated in a team task with four members where we were given a brief to produce a Risk Identification Report for a case study company, *Pampered Pets*. The report focused on identifying current business risks, assessing digitalisation risks, applying risk modelling, and proposing mitigation strategies. For the current business risk assessment, we applied the OCTAVE framework to identify vulnerabilities in existing systems. We highlighted issues such as wireless network insecurity, reliance on outdated spreadsheet systems, a single-point-of-failure front desk system, and exposure to phishing through email orders. To address these risks, we proposed mitigation strategies including WPA3 Wi-Fi security, migration to secure databases with backups, antivirus and patch management, and staff training on phishing awareness.  
+
+In assessing risks related to digitalisation, we adopted the ISO 31000 framework with qualitative risk metrics to evaluate threats associated with digital transformation. This included risks from e-commerce expansion such as cyberattacks, fraud and impersonation, supply chain vulnerabilities, regulatory compliance, and user trust issues. Our suggested mitigations involved implementing firewalls, multi-factor authentication, AI-based fraud detection, cloud ERP solutions with backups, and privacy-by-design practices. We then carried out risk and threat modelling using impact and likelihood assessments, where ransomware, fraud, compliance breaches, supplier reliability, and supply chain cyber threats were identified as high-impact concerns.  
+
+Based on our findings, we recommended adopting a hybrid OCTAVE–ISO 31000 framework to balance practicality, scalability, and regulatory compliance. 
+We also outlined implementation steps such as network segmentation, secure data migration, regular patching, developing risk registers, and running phishing awareness workshops. 
+Finally, as individual members, we completed peer evaluations to reflect on collaboration and contribution within the team.  
+
