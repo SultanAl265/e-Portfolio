@@ -11,14 +11,20 @@ One alternative that Spring et al. (2021) discuss is the Stakeholder-Specific Vu
 
 ---
 
-## Reflection  
+## Reflection from Initial and Peer post
 
-This activity helped me understand the limitations of relying only on CVSS scores for vulnerability management. I realised that while CVSS gives a simple way to rank vulnerabilities, it can sometimes be misleading because it ignores organisational context. Writing this discussion also improved my ability to use academic references to support my arguments. I found SSVC more practical than CVSS because it provides specific actions instead of just a score, which is more useful for real-world decision-making. Overall, I learned the importance of looking beyond numbers and focusing on context when evaluating security risks.  
+Engaging with this discussion activity has significantly deepened my understanding of vulnerability assessment frameworks and their role in effective security decision-making. Initially, my focus was on the limitations of the Common Vulnerability Scoring System (CVSS), particularly its reliance on a single numerical score that often overlooks the organisational context and can lead to misaligned remediation priorities (Spring et al., 2021; Allodi and Massacci, 2014). However, after considering my peers’ feedback and conducting further research, I now appreciate that CVSS, despite its flaws, remains a valuable component of a broader, multi-layered vulnerability management strategy.
+
+Peer insights helped me recognise the benefits of integrating multiple frameworks for a more comprehensive approach. For instance, combining CVSS with the Exploit Prediction Scoring System (EPSS) — which provides predictive data on exploitability — and the Stakeholder-Specific Vulnerability Categorization (SSVC) — which offers context-aware, actionable outcomes such as “act,” “track,” or “defer” — allows organisations to make more informed prioritisation decisions (Ghanem et al., 2025). This hybrid model aligns vulnerability management with real-world operational needs, threat intelligence, and resource constraints.
+
+This activity has also improved my ability to critically evaluate academic literature and synthesise different perspectives. It highlighted the importance of going beyond static severity scores and considering factors such as exploit likelihood, business impact, and compensating controls when assessing vulnerabilities. Ultimately, I learned that adopting a layered approach that integrates CVSS, EPSS, and SSVC can lead to more strategic, risk-informed security decisions and better allocation of resources (Spring et al., 2021; Ghanem et al., 2025). 
 
 ---
 
 ## References  
 
 Allodi, L., & Massacci, F. (2014). Comparing vulnerability severity and exploits using case-control studies. *ACM Transactions on Information and System Security (TISSEC)*, 17(1), 1–20.  
+
+Ghanem, T. et al. (2025) ‘Evaluating vulnerability prioritisation frameworks: CVSS, EPSS and SSVC in large-scale ecosystems’, arXiv preprint. Available at: https://arxiv.org/abs/2508.13644
 
 Spring, J., Hatleback, E., Householder, A., Manion, A., & Shick, D. (2021). Time to change the CVSS? *IEEE Security & Privacy*, 19(2), 74–78.  
